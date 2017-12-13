@@ -2,7 +2,7 @@
   "name": "node-tools",
   "version": "1.0.0",
   "description": "tools for adelie analysis",
-  "main": "download-node.js",
+  "main": "request_cnv.js",
   "dependencies": {
     "http": "^0.0.0",
     "moment": "^2.19.4",
